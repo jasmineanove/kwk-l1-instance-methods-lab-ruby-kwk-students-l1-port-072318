@@ -5,6 +5,6 @@ def talk
 end
 
 def walk 
-  "The persona is walking"
+  "The person is walking"
 end
 end
